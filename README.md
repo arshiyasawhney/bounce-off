@@ -1,2 +1,2 @@
-# bounce-off
-the function of making sprites bounce off
+# collisionAlgorithm
+Algorithm to detect collision between two objects
